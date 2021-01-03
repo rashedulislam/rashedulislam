@@ -15,7 +15,7 @@
 
 ### Languages
 
-[<img align="left" alt="PHP" width="35px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" />][php]
+[<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php-original.svg" />][php]
 [<img align="left" alt="Javascript" width="35px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />][javascript]
 [<img align="left" alt="C" width="35px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />][c]
 [<img align="left" alt="C++" width="35px" src="https://img.stackshare.io/service/1049/cplusplus.png" />][c++]
@@ -57,7 +57,7 @@
 
 <img align="left" alt="Rashedul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rashedulislam&show_icons=true&hide_border=true&theme=nord" />
 
-<img align="center" alt="Rashedul's Programming Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulislam&layout=compact&hide=html&theme=nord" />
+<img align="left" alt="Rashedul's Programming Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulislam&layout=compact&hide=html&theme=nord" />
 
 
 [website]: https://rashedul.co
