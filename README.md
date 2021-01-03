@@ -40,11 +40,11 @@
 
 ### Tools
 
-[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vs-code" width="35"/>][vscode]
-[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="35"/>][docker]
-[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="github" width="35"/>][github]
-[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="ubuntu" width="35"/>][ubuntu]
-[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="35"/>][phpstorm]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs-code" width="35"/>][vscode]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35"/>][docker]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="35"/>][github]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="35"/>][ubuntu]
+[<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="35"/>][phpstorm]
 
 <br />
 <br />
