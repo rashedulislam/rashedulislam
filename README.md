@@ -7,9 +7,9 @@
 
 ### A Dreamer, Learner, Traveller
 
-- 🔭 Currently Working on WordPress Ecosystem
+- 🔭 Currently Working on MERN Stack
 - 🌱 Want to be a full stack Javascript Developer
-- 🥅 2021 Goals: Study more on Data Structure 
+- 🥅 2022 Goals: Full Stack Javascript Engineer
 - ⚡  Fun fact: Laugh a lot
 
 
