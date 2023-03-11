@@ -10,6 +10,7 @@
 - 🔭 Currently Working on MERN Stack
 - 🌱 Want to be a full stack Javascript Developer
 - 🥅 2022 Goals: Full Stack Javascript Developer
+- 🥅 2023 Goals: Problem solving and Graphql
 - ⚡  Fun fact: Laugh a lot
 
 
