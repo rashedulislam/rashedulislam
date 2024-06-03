@@ -7,9 +7,9 @@
 
 ### A Dreamer, Learner, Traveller
 
-- 🔭 Currently Working on MERN Stack
-- 🌱 Want to be a full stack Javascript Developer
-- 🥅 2024 Goals: Full Stack Javascript Developer
+- 🔭 Currently Working on WordPress Stack
+- 🌱 Want to be a full stack Developer
+- 🥅 2024 Goals: Full Stack Developer
 - 🥅 2025 Goals: Problem solving and Graphql
 - ⚡  Fun fact: Laugh a lot
 
